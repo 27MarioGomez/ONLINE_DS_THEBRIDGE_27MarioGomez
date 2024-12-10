@@ -1,0 +1,914 @@
+Round,Date,Team 1,Team 1 Goals,Team 2 Goals,Team 2,Season
+Octavos de final (ida),04/09/1955,Sporting de Portugal,3,3,Partizan,1955-56
+Octavos de final (ida),07/09/1955,Vörös Lobogó,6,3,Anderlecht,1955-56
+Octavos de final (ida),08/09/1955,Servette,0,2,Real Madrid,1955-56
+Octavos de final (ida),14/09/1955,Rot-Weiss Essen,0,4,Hibernian,1955-56
+Octavos de final (ida),20/09/1955,Djurgården,0,0,Gwardia Warszawa,1955-56
+Octavos de final (ida),21/09/1955,Aarhus,0,2,Stade de Reims,1955-56
+Octavos de final (ida),21/09/1955,Rapid Wien,6,1,PSV,1955-56
+Octavos de final (vuelta),12/10/1955,Hibernian,1,1,Rot-Weiss Essen,1955-56
+Octavos de final (vuelta),12/10/1955,Real Madrid,5,0,Servette,1955-56
+Octavos de final (vuelta),12/10/1955,Partizan,5,2,Sporting de Portugal,1955-56
+Octavos de final (vuelta),12/10/1955,Gwardia Warszawa,1,4,Djurgården,1955-56
+Octavos de final (vuelta),19/10/1955,Anderlecht,1,4,Vörös Lobogó,1955-56
+Octavos de final (vuelta),26/10/1955,Stade de Reims,2,2,Aarhus,1955-56
+Octavos de final (ida),01/11/1955,Milan,3,4,Saarbrücken,1955-56
+Octavos de final (vuelta),01/11/1955,PSV,1,0,Rapid Wien,1955-56
+Octavos de final (vuelta),23/11/1955,Saarbrücken,1,4,Milan,1955-56
+Octavos de final (ida),17/10/1956,Manchester United,3,2,Borussia Dortmund,1956-57
+Octavos de final (ida),21/10/1956,CDNA Sofia,8,1,Dinamo București,1956-57
+Octavos de final (ida),24/10/1956,Rangers,2,1,Nice,1956-57
+Octavos de final (ida),24/10/1956,Slovan Bratislava,1,0,Grasshopper,1956-57
+Octavos de final (ida),01/11/1956,Real Madrid,4,2,Rapid Wien,1956-57
+Octavos de final (ida),03/11/1956,Rapid JC,3,4,Crvena Zvezda,1956-57
+Octavos de final (vuelta),08/11/1956,Crvena Zvezda,2,0,Rapid JC,1956-57
+Octavos de final (vuelta),14/11/1956,Nice,2,1,Rangers,1956-57
+Octavos de final (vuelta),14/11/1956,Rapid Wien,3,1,Real Madrid,1956-57
+Octavos de final (ida),21/11/1956,Fiorentina,1,1,Norrköping,1956-57
+Octavos de final (vuelta),21/11/1956,Borussia Dortmund,0,0,Manchester United,1956-57
+Octavos de final (ida),22/11/1956,Atlético de Bilbao,3,2,Budapest Honvéd,1956-57
+Octavos de final (desempate),28/11/1956,Nice,3,1,Rangers,1956-57
+Octavos de final (vuelta),28/11/1956,Norrköping,0,1,Fiorentina,1956-57
+Octavos de final (vuelta),12/12/1956,Grasshopper,2,0,Slovan Bratislava,1956-57
+Octavos de final (desempate),13/12/1956,Real Madrid,2,0,Rapid Wien,1956-57
+Octavos de final (vuelta),20/12/1956,Budapest Honvéd,3,3,Atlético de Bilbao,1956-57
+Octavos de final (vuelta),30/12/1956,Dinamo București,3,2,CDNA Sofia,1956-57
+Octavos de final (ida),31/10/1957,Royal Antwerp,1,2,Real Madrid,1957-58
+Octavos de final (ida),02/11/1957,Norrköping,2,2,Crvena Zvezda,1957-58
+Octavos de final (ida),20/11/1957,Wismut Aue,1,3,Ajax,1957-58
+Octavos de final (ida),20/11/1957,Manchester United,3,0,Dukla Praha,1957-58
+Octavos de final (ida),20/11/1957,Young Boys,1,1,Vasas,1957-58
+Octavos de final (vuelta),23/11/1957,Crvena Zvezda,2,1,Norrköping,1957-58
+Octavos de final (vuelta),27/11/1957,Ajax,1,0,Wismut Aue,1957-58
+Octavos de final (ida),27/11/1957,Borussia Dortmund,4,2,CCA București,1957-58
+Octavos de final (ida),27/11/1957,Sevilla,4,0,Aarhus,1957-58
+Octavos de final (ida),27/11/1957,Rangers,1,4,Milan,1957-58
+Octavos de final (vuelta),28/11/1957,Real Madrid,6,0,Royal Antwerp,1957-58
+Octavos de final (vuelta),30/11/1957,Vasas,2,1,Young Boys,1957-58
+Octavos de final (vuelta),04/12/1957,Aarhus,2,0,Sevilla,1957-58
+Octavos de final (vuelta),04/12/1957,Dukla Praha,1,0,Manchester United,1957-58
+Octavos de final (vuelta),08/12/1957,CCA București,3,1,Borussia Dortmund,1957-58
+Octavos de final (vuelta),11/12/1957,Milan,2,0,Rangers,1957-58
+Octavos de final (desempate),29/12/1957,Borussia Dortmund,3,1,CCA București,1957-58
+Octavos de final (ida),29/10/1958,Sporting de Portugal,2,3,Standard Liège,1958-59
+Octavos de final (ida),05/11/1958,MTK Budapest,1,2,Young Boys,1958-59
+Octavos de final (ida),05/11/1958,Wiener SC,3,1,Dukla Praha,1958-59
+Octavos de final (ida),05/11/1958,Atlético de Madrid,2,1,CDNA Sofia,1958-59
+Octavos de final (ida),09/11/1958,Göteborg,2,2,Wismut Aue,1958-59
+Octavos de final (vuelta),12/11/1958,Standard Liège,3,0,Sporting de Portugal,1958-59
+Octavos de final (ida),12/11/1958,Wolverhampton,2,2,Schalke 04,1958-59
+Octavos de final (ida),13/11/1958,Real Madrid,2,0,Beşiktaş,1958-59
+Octavos de final (vuelta),15/11/1958,Wismut Aue,4,0,Göteborg,1958-59
+Octavos de final (vuelta),18/11/1958,Schalke 04,2,1,Wolverhampton,1958-59
+Octavos de final (vuelta),26/11/1958,Young Boys,4,1,MTK Budapest,1958-59
+Octavos de final (vuelta),26/11/1958,Dukla Praha,1,0,Wiener SC,1958-59
+Octavos de final (vuelta),26/11/1958,CDNA Sofia,1,0,Atlético de Madrid,1958-59
+Octavos de final (ida),26/11/1958,Stade de Reims,4,0,HPS,1958-59
+Octavos de final (vuelta),27/11/1958,Beşiktaş,1,1,Real Madrid,1958-59
+Octavos de final (vuelta),03/12/1958,HPS,0,3,Stade de Reims,1958-59
+Octavos de final (desempate),18/12/1958,Atlético de Madrid,3,1,CDNA Sofia,1958-59
+Octavos de final (ida),21/10/1959,Real Madrid,7,0,Jeunesse d'Esch,1959-60
+Octavos de final (ida),21/10/1959,B1909,0,3,Wiener SC,1959-60
+Octavos de final (ida),25/10/1959,Sparta Rotterdam,3,1,Göteborg,1959-60
+Octavos de final (vuelta),04/11/1959,Jeunesse d'Esch,2,5,Real Madrid,1959-60
+Octavos de final (ida),04/11/1959,Young Boys,1,4,Eintracht Frankfurt,1959-60
+Octavos de final (ida),04/11/1959,Milan,0,2,Barcelona,1959-60
+Octavos de final (vuelta),04/11/1959,Wiener SC,2,2,B1909,1959-60
+Octavos de final (vuelta),05/11/1959,Göteborg,3,1,Sparta Rotterdam,1959-60
+Octavos de final (ida),11/11/1959,Crvena Zvezda,1,1,Wolverhampton,1959-60
+Octavos de final (ida),11/11/1959,Rangers,4,3,Červená Hviezda Bratislava,1959-60
+Octavos de final (vuelta),18/11/1959,Červená Hviezda Bratislava,1,1,Rangers,1959-60
+Octavos de final (ida),19/11/1959,Fenerbahçe,2,1,Nice,1959-60
+Octavos de final (vuelta),24/11/1959,Wolverhampton,3,0,Crvena Zvezda,1959-60
+Octavos de final (desempate),25/11/1959,Sparta Rotterdam,3,1,Göteborg,1959-60
+Octavos de final (vuelta),25/11/1959,Barcelona,5,1,Milan,1959-60
+Octavos de final (vuelta),25/11/1959,Eintracht Frankfurt,1,1,Young Boys,1959-60
+Octavos de final (vuelta),03/12/1959,Nice,2,1,Fenerbahçe,1959-60
+Octavos de final (desempate),23/12/1959,Nice,5,1,Fenerbahçe,1959-60
+Octavos de final (ida),19/10/1960,Aarhus,3,0,Fredrikstad,1960-61
+Octavos de final (vuelta),26/10/1960,Fredrikstad,0,1,Aarhus,1960-61
+Octavos de final (ida),02/11/1960,IFK Malmö,1,0,CDNA Sofia,1960-61
+Octavos de final (ida),02/11/1960,Young Boys,0,5,Hamburger,1960-61
+Octavos de final (ida),06/11/1960,Benfica,6,2,Újpesti Dózsa,1960-61
+Octavos de final (ida),06/11/1960,Hradec Králové,1,0,Panathinaikos,1960-61
+Octavos de final (ida),09/11/1960,Real Madrid,2,2,Barcelona,1960-61
+Octavos de final (ida),09/11/1960,Rapid Wien,3,1,Wismut Aue,1960-61
+Octavos de final (vuelta),13/11/1960,CDNA Sofia,1,1,IFK Malmö,1960-61
+Octavos de final (ida),16/11/1960,Burnley,2,0,Stade de Reims,1960-61
+Octavos de final (vuelta),23/11/1960,Barcelona,2,1,Real Madrid,1960-61
+Octavos de final (vuelta),23/11/1960,Wismut Aue,2,0,Rapid Wien,1960-61
+Octavos de final (vuelta),27/11/1960,Hamburger,3,3,Young Boys,1960-61
+Octavos de final (vuelta),30/11/1960,Újpesti Dózsa,2,1,Benfica,1960-61
+Octavos de final (vuelta),30/11/1960,Stade de Reims,3,2,Burnley,1960-61
+Octavos de final (vuelta),07/12/1960,Panathinaikos,0,0,Hradec Králové,1960-61
+Octavos de final (desempate),21/12/1960,Rapid Wien,1,0,Wismut Aue,1960-61
+Octavos de final (ida),18/10/1961,B 1913,0,3,Real Madrid,1961-62
+Octavos de final (ida),18/10/1961,Fenerbahçe,1,2,Nürnberg,1961-62
+Octavos de final (ida),24/10/1961,Standard Liège,5,1,Haka,1961-62
+Octavos de final (vuelta),25/10/1961,Real Madrid,9,0,B 1913,1961-62
+Octavos de final (ida),31/10/1961,Austria Wien,1,1,Benfica,1961-62
+Octavos de final (ida),01/11/1961,Feyenoord,1,3,Tottenham,1961-62
+Octavos de final (vuelta),02/11/1961,Haka,0,2,Standard Liège,1961-62
+Octavos de final (ida),05/11/1961,Servette,4,3,Dukla Praha,1961-62
+Octavos de final (vuelta),08/11/1961,Benfica,5,1,Austria Wien,1961-62
+Octavos de final (ida),08/11/1961,Partizan,1,2,Juventus,1961-62
+Octavos de final (ida),15/11/1961,Vorwärts Berlin,1,2,Rangers,1961-62
+Octavos de final (vuelta),15/11/1961,Tottenham,1,1,Feyenoord,1961-62
+Octavos de final (vuelta),15/11/1961,Juventus,5,0,Partizan,1961-62
+Octavos de final (vuelta),22/11/1961,Dukla Praha,2,0,Servette,1961-62
+Octavos de final (vuelta),23/11/1961,Rangers,4,1,Vorwärts Berlin,1961-62
+Octavos de final (vuelta),03/12/1961,Nürnberg,1,0,Fenerbahçe,1961-62
+Octavos de final (ida),18/10/1962,Austria Wien,3,2,Stade de Reims,1962-63
+Octavos de final (ida),24/10/1962,CDNA Sofia,2,2,Anderlecht,1962-63
+Octavos de final (ida),24/10/1962,Sporting de Portugal,1,0,Dundee,1962-63
+Octavos de final (ida),31/10/1962,Norrköping,1,1,Benfica,1962-63
+Octavos de final (vuelta),31/10/1962,Dundee,4,1,Sporting de Portugal,1962-63
+Octavos de final (ida),07/11/1962,Galatasaray,4,1,Polonia Bytom,1962-63
+Octavos de final (ida),07/11/1962,Esbjerg,0,0,Dukla Praha,1962-63
+Octavos de final (ida),14/11/1962,Milan,3,0,Ipswich Town,1962-63
+Octavos de final (vuelta),14/11/1962,Dukla Praha,5,0,Esbjerg,1962-63
+Octavos de final (vuelta),14/11/1962,Stade de Reims,5,0,Austria Wien,1962-63
+Octavos de final (vuelta),14/11/1962,Anderlecht,2,0,CDNA Sofia,1962-63
+Octavos de final (ida),14/11/1962,Feyenoord,1,1,Vasas,1962-63
+Octavos de final (vuelta),18/11/1962,Polonia Bytom,1,0,Galatasaray,1962-63
+Octavos de final (vuelta),22/11/1962,Benfica,5,1,Norrköping,1962-63
+Octavos de final (vuelta),28/11/1962,Ipswich Town,2,1,Milan,1962-63
+Octavos de final (vuelta),28/11/1962,Vasas,2,2,Feyenoord,1962-63
+Octavos de final (desempate),12/12/1962,Feyenoord,1,0,Vasas,1962-63
+Octavos de final (ida),06/11/1963,Benfica,2,1,Borussia Dortmund,1963-64
+Octavos de final (ida),13/11/1963,Górnik Zabrze,2,0,Dukla Praha,1963-64
+Octavos de final (ida),13/11/1963,Spartak Plovdiv,0,1,PSV,1963-64
+Octavos de final (ida),13/11/1963,Dinamo București,1,3,Real Madrid,1963-64
+Octavos de final (ida),14/11/1963,Zürich,2,0,Galatasaray,1963-64
+Octavos de final (vuelta),20/11/1963,Dukla Praha,4,1,Górnik Zabrze,1963-64
+Octavos de final (ida),20/11/1963,Jeunesse d'Esch,2,1,Partizan,1963-64
+Octavos de final (ida),27/11/1963,Inter,1,0,Monaco,1963-64
+Octavos de final (vuelta),27/11/1963,Galatasaray,2,0,Zürich,1963-64
+Octavos de final (vuelta),27/11/1963,Partizan,6,2,Jeunesse d'Esch,1963-64
+Octavos de final (ida),27/11/1963,Norrköping,1,1,Milan,1963-64
+Octavos de final (vuelta),27/11/1963,PSV,0,0,Spartak Plovdiv,1963-64
+Octavos de final (vuelta),04/12/1963,Borussia Dortmund,5,0,Benfica,1963-64
+Octavos de final (vuelta),04/12/1963,Milan,5,2,Norrköping,1963-64
+Octavos de final (vuelta),04/12/1963,Monaco,1,3,Inter,1963-64
+Octavos de final (desempate),11/12/1963,Zürich,2,2,Galatasaray,1963-64
+Octavos de final (vuelta),18/12/1963,Real Madrid,5,3,Dinamo București,1963-64
+Octavos de final (ida),04/11/1964,DWS,5,0,Lyn,1964-65
+Octavos de final (ida),04/11/1964,La Chaux-de-Fonds,1,1,Benfica,1964-65
+Octavos de final (ida),11/11/1964,Panathinaikos,1,1,Köln,1964-65
+Octavos de final (ida),11/11/1964,Inter,6,0,Dinamo București,1964-65
+Octavos de final (ida),18/11/1964,Győr,5,3,Lokomotiv Sofia,1964-65
+Octavos de final (ida),18/11/1964,Real Madrid,4,0,Dukla Praha,1964-65
+Octavos de final (vuelta),18/11/1964,Lyn,1,3,DWS,1964-65
+Octavos de final (ida),18/11/1964,Rangers,1,0,Rapid Wien,1964-65
+Octavos de final (ida),25/11/1964,Liverpool,3,0,Anderlecht,1964-65
+Octavos de final (vuelta),25/11/1964,Köln,2,1,Panathinaikos,1964-65
+Octavos de final (vuelta),02/12/1964,Dukla Praha,2,2,Real Madrid,1964-65
+Octavos de final (vuelta),03/12/1964,Dinamo București,0,1,Inter,1964-65
+Octavos de final (vuelta),06/12/1964,Lokomotiv Sofia,4,3,Győr,1964-65
+Octavos de final (vuelta),08/12/1964,Rapid Wien,0,2,Rangers,1964-65
+Octavos de final (vuelta),09/12/1964,Benfica,5,0,La Chaux-de-Fonds,1964-65
+Octavos de final (vuelta),16/12/1964,Anderlecht,0,1,Liverpool,1964-65
+Octavos de final (ida),09/11/1965,Partizan,3,0,Werder Bremen,1965-66
+Octavos de final (ida),10/11/1965,Ferencváros,0,0,Panathinaikos,1965-66
+Octavos de final (ida),10/11/1965,Levski Sofia,2,2,Benfica,1965-66
+Octavos de final (ida),17/11/1965,Kilmarnock,2,2,Real Madrid,1965-66
+Octavos de final (ida),17/11/1965,Vorwärts Berlin,0,2,Manchester United,1965-66
+Octavos de final (vuelta),17/11/1965,Werder Bremen,1,0,Partizan,1965-66
+Octavos de final (vuelta),17/11/1965,Panathinaikos,1,3,Ferencváros,1965-66
+Octavos de final (ida),23/11/1965,Anderlecht,9,0,Derry City,1965-66
+Octavos de final (ida),24/11/1965,Sparta Praha,3,0,Górnik Zabrze,1965-66
+Octavos de final (vuelta),28/11/1965,Górnik Zabrze,1,2,Sparta Praha,1965-66
+Octavos de final (vuelta),01/12/1965,Real Madrid,5,1,Kilmarnock,1965-66
+Octavos de final (ida),01/12/1965,Dinamo București,2,1,Inter,1965-66
+Octavos de final (vuelta),01/12/1965,Manchester United,3,1,Vorwärts Berlin,1965-66
+Octavos de final (vuelta),08/12/1965,Benfica,3,2,Levski Sofia,1965-66
+Octavos de final (vuelta),16/12/1965,Inter,2,0,Dinamo București,1965-66
+Octavos de final (ida),25/10/1966,Vålerenga,1,4,Linfield,1966-67
+Octavos de final (vuelta),08/11/1966,Linfield,1,1,Vålerenga,1966-67
+Octavos de final (ida),16/11/1966,Vojvodina,3,1,Atlético de Madrid,1966-67
+Octavos de final (ida),16/11/1966,Inter,2,1,Vasas,1966-67
+Octavos de final (ida),17/11/1966,Dukla Praha,4,1,Anderlecht,1966-67
+Octavos de final (ida),17/11/1966,1860 München,1,0,Real Madrid,1966-67
+Octavos de final (ida),23/11/1966,CSKA Cherveno Zname,4,0,Górnik Zabrze,1966-67
+Octavos de final (vuelta),30/11/1966,Real Madrid,3,1,1860 München,1966-67
+Octavos de final (ida),30/11/1966,Nantes,1,3,Celtic,1966-67
+Octavos de final (vuelta),07/12/1966,Anderlecht,1,2,Dukla Praha,1966-67
+Octavos de final (ida),07/12/1966,Ajax,5,1,Liverpool,1966-67
+Octavos de final (vuelta),07/12/1966,Celtic,3,1,Nantes,1966-67
+Octavos de final (vuelta),07/12/1966,Górnik Zabrze,3,0,CSKA Cherveno Zname,1966-67
+Octavos de final (vuelta),08/12/1966,Vasas,0,2,Inter,1966-67
+Octavos de final (vuelta),14/12/1966,Liverpool,2,2,Ajax,1966-67
+Octavos de final (vuelta),14/12/1966,Atlético de Madrid,2,0,Vojvodina,1966-67
+Octavos de final (desempate),21/12/1966,Atlético de Madrid,2,3,Vojvodina,1966-67
+Octavos de final (ida),15/11/1967,Vasas,6,0,Valur,1967-68
+Octavos de final (ida),15/11/1967,Sarajevo,0,0,Manchester United,1967-68
+Octavos de final (ida),15/11/1967,Rapid Wien,1,0,Eintracht Braunschweig,1967-68
+Octavos de final (ida),15/11/1967,Hvidovre,2,2,Real Madrid,1967-68
+Octavos de final (ida),16/11/1967,Benfica,2,0,Saint-Étienne,1967-68
+Octavos de final (ida),17/11/1967,Dynamo Kyiv,1,2,Górnik Zabrze,1967-68
+Octavos de final (vuelta),18/11/1967,Valur,1,5,Vasas,1967-68
+Octavos de final (ida),29/11/1967,Juventus,1,0,Rapid București,1967-68
+Octavos de final (vuelta),29/11/1967,Górnik Zabrze,1,1,Dynamo Kyiv,1967-68
+Octavos de final (vuelta),29/11/1967,Real Madrid,4,1,Hvidovre,1967-68
+Octavos de final (vuelta),29/11/1967,Eintracht Braunschweig,2,0,Rapid Wien,1967-68
+Octavos de final (vuelta),29/11/1967,Manchester United,2,1,Sarajevo,1967-68
+Octavos de final (ida),29/11/1967,Sparta Praha,3,2,Anderlecht,1967-68
+Octavos de final (vuelta),30/11/1967,Saint-Étienne,1,0,Benfica,1967-68
+Octavos de final (vuelta),06/12/1967,Anderlecht,3,3,Sparta Praha,1967-68
+Octavos de final (vuelta),13/12/1967,Rapid București,0,0,Juventus,1967-68
+Octavos de final (ida),13/11/1968,AEK,0,0,AB,1968-69
+Octavos de final (ida),13/11/1968,Ajax,2,0,Fenerbahçe,1968-69
+Octavos de final (ida),13/11/1968,Manchester United,3,0,Anderlecht,1968-69
+Octavos de final (ida),13/11/1968,Celtic,5,1,Crvena Zvezda,1968-69
+Octavos de final (ida),20/11/1968,Reipas,1,9,Spartak Trnava,1968-69
+Octavos de final (ida),20/11/1968,Rapid Wien,1,0,Real Madrid,1968-69
+Octavos de final (vuelta),27/11/1968,AB,0,2,AEK,1968-69
+Octavos de final (vuelta),27/11/1968,Anderlecht,3,1,Manchester United,1968-69
+Octavos de final (vuelta),27/11/1968,Crvena Zvezda,1,1,Celtic,1968-69
+Octavos de final (vuelta),27/11/1968,Spartak Trnava,7,1,Reipas,1968-69
+Octavos de final (vuelta),28/11/1968,Fenerbahçe,0,2,Ajax,1968-69
+Octavos de final (vuelta),04/12/1968,Real Madrid,2,1,Rapid Wien,1968-69
+Octavos de final (ida),12/11/1969,Dynamo Kyiv,1,2,Fiorentina,1969-70
+Octavos de final (ida),12/11/1969,Legia Warszawa,2,1,Saint-Étienne,1969-70
+Octavos de final (ida),12/11/1969,Leeds,3,0,Ferencváros,1969-70
+Octavos de final (ida),12/11/1969,Celtic,3,0,Benfica,1969-70
+Octavos de final (ida),12/11/1969,Vorwärts Berlin,2,1,Crvena Zvezda,1969-70
+Octavos de final (ida),12/11/1969,Spartak Trnava,1,0,Galatasaray,1969-70
+Octavos de final (ida),12/11/1969,Milan,1,0,Feyenoord,1969-70
+Octavos de final (ida),19/11/1969,Standard Liège,1,0,Real Madrid,1969-70
+Octavos de final (vuelta),26/11/1969,Benfica,3,0,Celtic,1969-70
+Octavos de final (vuelta),26/11/1969,Feyenoord,2,0,Milan,1969-70
+Octavos de final (vuelta),26/11/1969,Fiorentina,0,0,Dynamo Kyiv,1969-70
+Octavos de final (vuelta),26/11/1969,Galatasaray,1,0,Spartak Trnava,1969-70
+Octavos de final (vuelta),26/11/1969,Ferencváros,0,3,Leeds,1969-70
+Octavos de final (vuelta),26/11/1969,Saint-Étienne,0,1,Legia Warszawa,1969-70
+Octavos de final (vuelta),26/11/1969,Crvena Zvezda,3,2,Vorwärts Berlin,1969-70
+Octavos de final (vuelta),03/12/1969,Real Madrid,2,3,Standard Liège,1969-70
+Octavos de final (ida),21/10/1970,Cagliari,2,1,Atlético de Madrid,1970-71
+Octavos de final (ida),21/10/1970,Borussia Mönchengladbach,1,1,Everton,1970-71
+Octavos de final (ida),21/10/1970,Standard Liège,1,0,Legia Warszawa,1970-71
+Octavos de final (ida),21/10/1970,Waterford,0,7,Celtic,1970-71
+Octavos de final (ida),21/10/1970,Panathinaikos,3,0,Slovan Bratislava,1970-71
+Octavos de final (ida),21/10/1970,Carl Zeiss Jena,2,1,Sporting de Portugal,1970-71
+Octavos de final (ida),21/10/1970,Crvena Zvezda,3,0,UTA Arad,1970-71
+Octavos de final (ida),21/10/1970,Ajax,3,0,Basel,1970-71
+Octavos de final (vuelta),04/11/1970,UTA Arad,1,3,Crvena Zvezda,1970-71
+Octavos de final (vuelta),04/11/1970,Sporting de Portugal,1,2,Carl Zeiss Jena,1970-71
+Octavos de final (vuelta),04/11/1970,Slovan Bratislava,2,1,Panathinaikos,1970-71
+Octavos de final (vuelta),04/11/1970,Legia Warszawa,2,0,Standard Liège,1970-71
+Octavos de final (vuelta),04/11/1970,Celtic,3,2,Waterford,1970-71
+Octavos de final (vuelta),04/11/1970,Everton,1,1,Borussia Mönchengladbach,1970-71
+Octavos de final (vuelta),04/11/1970,Basel,1,2,Ajax,1970-71
+Octavos de final (vuelta),05/11/1970,Atlético de Madrid,3,0,Cagliari,1970-71
+Octavos de final (ida),20/10/1971,Celtic,5,0,Sliema Wanderers,1971-72
+Octavos de final (ida),20/10/1971,Benfica,2,1,CSKA Septemvriysko Zname,1971-72
+Octavos de final (ida),20/10/1971,Dinamo București,0,3,Feyenoord,1971-72
+Octavos de final (ida),20/10/1971,CSKA Moskva,1,0,Standard Liège,1971-72
+Octavos de final (ida),20/10/1971,Grasshopper,0,2,Arsenal,1971-72
+Octavos de final (ida),20/10/1971,Olympique de Marseille,1,2,Ajax,1971-72
+Octavos de final (ida),20/10/1971,Valencia,0,1,Újpesti Dózsa,1971-72
+Octavos de final (ida),03/11/1971,Inter,4,2,Borussia Mönchengladbach,1971-72
+Octavos de final (vuelta),03/11/1971,Sliema Wanderers,1,2,Celtic,1971-72
+Octavos de final (vuelta),03/11/1971,Újpesti Dózsa,2,1,Valencia,1971-72
+Octavos de final (vuelta),03/11/1971,CSKA Septemvriysko Zname,0,0,Benfica,1971-72
+Octavos de final (vuelta),03/11/1971,Standard Liège,2,0,CSKA Moskva,1971-72
+Octavos de final (vuelta),03/11/1971,Ajax,4,1,Olympique de Marseille,1971-72
+Octavos de final (vuelta),03/11/1971,Feyenoord,2,0,Dinamo București,1971-72
+Octavos de final (vuelta),03/11/1971,Arsenal,3,0,Grasshopper,1971-72
+Octavos de final (vuelta),01/12/1971,Borussia Mönchengladbach,0,0,Inter,1971-72
+Octavos de final (ida),24/10/1972,Bayern München,9,0,Omonia,1972-73
+Octavos de final (ida),25/10/1972,Derby County,3,0,Benfica,1972-73
+Octavos de final (ida),25/10/1972,Juventus,1,0,Magdeburg,1972-73
+Octavos de final (ida),25/10/1972,Celtic,2,1,Újpesti Dózsa,1972-73
+Octavos de final (ida),25/10/1972,Spartak Trnava,1,0,Anderlecht,1972-73
+Octavos de final (ida),25/10/1972,Dynamo Kyiv,2,0,Górnik Zabrze,1972-73
+Octavos de final (ida),25/10/1972,Argeș Pitești,2,1,Real Madrid,1972-73
+Octavos de final (vuelta),26/10/1972,Omonia,0,4,Bayern München,1972-73
+Octavos de final (ida),08/11/1972,CSKA Septemvriysko Zname,1,3,Ajax,1972-73
+Octavos de final (vuelta),08/11/1972,Benfica,0,0,Derby County,1972-73
+Octavos de final (vuelta),08/11/1972,Anderlecht,0,1,Spartak Trnava,1972-73
+Octavos de final (vuelta),08/11/1972,Magdeburg,0,1,Juventus,1972-73
+Octavos de final (vuelta),08/11/1972,Újpesti Dózsa,3,0,Celtic,1972-73
+Octavos de final (vuelta),08/11/1972,Górnik Zabrze,2,1,Dynamo Kyiv,1972-73
+Octavos de final (vuelta),09/11/1972,Real Madrid,3,1,Argeș Pitești,1972-73
+Octavos de final (vuelta),29/11/1972,Ajax,3,0,CSKA Septemvriysko Zname,1972-73
+Octavos de final (ida),24/10/1973,Benfica,1,1,Újpesti Dózsa,1973-74
+Octavos de final (ida),24/10/1973,Celtic,0,0,Vejle,1973-74
+Octavos de final (ida),24/10/1973,Ajax,1,0,CSKA Septemvriysko Zname,1973-74
+Octavos de final (ida),24/10/1973,Bayern München,4,3,Dynamo Dresden,1973-74
+Octavos de final (ida),24/10/1973,Brugge,2,1,Basel,1973-74
+Octavos de final (ida),24/10/1973,Crvena Zvezda,2,1,Liverpool,1973-74
+Octavos de final (ida),24/10/1973,Spartak Trnava,0,0,Zaria,1973-74
+Octavos de final (ida),24/10/1973,Dinamo București,0,2,Atlético de Madrid,1973-74
+Octavos de final (vuelta),06/11/1973,Vejle,0,1,Celtic,1973-74
+Octavos de final (vuelta),06/11/1973,Liverpool,1,2,Crvena Zvezda,1973-74
+Octavos de final (vuelta),07/11/1973,CSKA Septemvriysko Zname,2,0,Ajax,1973-74
+Octavos de final (vuelta),07/11/1973,Dynamo Dresden,3,3,Bayern München,1973-74
+Octavos de final (vuelta),07/11/1973,Basel,6,4,Brugge,1973-74
+Octavos de final (vuelta),07/11/1973,Atlético de Madrid,2,2,Dinamo București,1973-74
+Octavos de final (vuelta),07/11/1973,Zaria,0,1,Spartak Trnava,1973-74
+Octavos de final (vuelta),07/11/1973,Újpesti Dózsa,2,0,Benfica,1973-74
+Octavos de final (ida),22/10/1974,Feyenoord,0,0,Barcelona,1974-75
+Octavos de final (ida),23/10/1974,Anderlecht,5,1,Olympiacos,1974-75
+Octavos de final (ida),23/10/1974,Bayern München,3,2,Magdeburg,1974-75
+Octavos de final (ida),23/10/1974,Hajduk Split,4,1,Saint-Étienne,1974-75
+Octavos de final (ida),23/10/1974,Újpesti Dózsa,1,2,Leeds,1974-75
+Octavos de final (ida),23/10/1974,Ruch Chorzów,2,1,Fenerbahçe,1974-75
+Octavos de final (ida),23/10/1974,Helsinki,0,3,Åtvidabergs,1974-75
+Octavos de final (ida),23/10/1974,Cork Celtic,1,2,Ararat Yerevan,1974-75
+Octavos de final (vuelta),05/11/1974,Barcelona,3,0,Feyenoord,1974-75
+Octavos de final (vuelta),06/11/1974,Åtvidabergs,1,0,Helsinki,1974-75
+Octavos de final (vuelta),06/11/1974,Fenerbahçe,0,2,Ruch Chorzów,1974-75
+Octavos de final (vuelta),06/11/1974,Ararat Yerevan,5,0,Cork Celtic,1974-75
+Octavos de final (vuelta),06/11/1974,Olympiacos,3,0,Anderlecht,1974-75
+Octavos de final (vuelta),06/11/1974,Saint-Étienne,5,1,Hajduk Split,1974-75
+Octavos de final (vuelta),06/11/1974,Leeds,3,0,Újpesti Dózsa,1974-75
+Octavos de final (vuelta),06/11/1974,Magdeburg,1,2,Bayern München,1974-75
+Octavos de final (ida),22/10/1975,Derby County,4,1,Real Madrid,1975-76
+Octavos de final (ida),22/10/1975,Saint-Étienne,2,0,Rangers,1975-76
+Octavos de final (ida),22/10/1975,Borussia Mönchengladbach,2,0,Juventus,1975-76
+Octavos de final (ida),22/10/1975,Malmö,1,0,Bayern München,1975-76
+Octavos de final (ida),22/10/1975,Dynamo Kyiv,3,0,ÍA,1975-76
+Octavos de final (ida),22/10/1975,Ruch Chorzów,1,3,PSV,1975-76
+Octavos de final (ida),22/10/1975,Hajduk Split,4,0,Molenbeek,1975-76
+Octavos de final (ida),22/10/1975,Benfica,5,2,Újpesti Dózsa,1975-76
+Octavos de final (vuelta),05/11/1975,Bayern München,2,0,Malmö,1975-76
+Octavos de final (vuelta),05/11/1975,Molenbeek,2,3,Hajduk Split,1975-76
+Octavos de final (vuelta),05/11/1975,ÍA,0,2,Dynamo Kyiv,1975-76
+Octavos de final (vuelta),05/11/1975,PSV,4,0,Ruch Chorzów,1975-76
+Octavos de final (vuelta),05/11/1975,Juventus,2,2,Borussia Mönchengladbach,1975-76
+Octavos de final (vuelta),05/11/1975,Rangers,1,2,Saint-Étienne,1975-76
+Octavos de final (vuelta),05/11/1975,Real Madrid,5,1,Derby County,1975-76
+Octavos de final (vuelta),05/11/1975,Újpesti Dózsa,3,1,Benfica,1975-76
+Octavos de final (ida),20/10/1976,Baník Ostrava,2,1,Bayern München,1976-77
+Octavos de final (ida),20/10/1976,Torino,1,2,Borussia Mönchengladbach,1976-77
+Octavos de final (ida),20/10/1976,Zürich,2,0,TPS,1976-77
+Octavos de final (ida),20/10/1976,Dynamo Kyiv,4,0,PAOK,1976-77
+Octavos de final (ida),20/10/1976,Ferencváros,1,0,Dynamo Dresden,1976-77
+Octavos de final (ida),20/10/1976,Trabzonspor,1,0,Liverpool,1976-77
+Octavos de final (ida),20/10/1976,Real Madrid,0,0,Brugge,1976-77
+Octavos de final (ida),20/10/1976,Saint-Étienne,1,0,PSV,1976-77
+Octavos de final (vuelta),03/11/1976,TPS,0,1,Zürich,1976-77
+Octavos de final (vuelta),03/11/1976,PAOK,0,2,Dynamo Kyiv,1976-77
+Octavos de final (vuelta),03/11/1976,Dynamo Dresden,4,0,Ferencváros,1976-77
+Octavos de final (vuelta),03/11/1976,Bayern München,5,0,Baník Ostrava,1976-77
+Octavos de final (vuelta),03/11/1976,Borussia Mönchengladbach,0,0,Torino,1976-77
+Octavos de final (vuelta),03/11/1976,PSV,0,0,Saint-Étienne,1976-77
+Octavos de final (vuelta),03/11/1976,Brugge,2,0,Real Madrid,1976-77
+Octavos de final (vuelta),03/11/1976,Liverpool,3,0,Trabzonspor,1976-77
+Octavos de final (ida),19/10/1977,Benfica,1,0,B1903,1977-78
+Octavos de final (ida),19/10/1977,Levski-Spartak,1,2,Ajax,1977-78
+Octavos de final (ida),19/10/1977,Crvena Zvezda,0,3,Borussia Mönchengladbach,1977-78
+Octavos de final (ida),19/10/1977,Brugge,2,0,Panathinaikos,1977-78
+Octavos de final (ida),19/10/1977,Liverpool,5,1,Dynamo Dresden,1977-78
+Octavos de final (ida),19/10/1977,Glentoran,0,1,Juventus,1977-78
+Octavos de final (ida),19/10/1977,Celtic,2,1,SSW Innsbruck,1977-78
+Octavos de final (ida),19/10/1977,Nantes,1,1,Atlético de Madrid,1977-78
+Octavos de final (vuelta),02/11/1977,Panathinaikos,1,0,Brugge,1977-78
+Octavos de final (vuelta),02/11/1977,Atlético de Madrid,2,1,Nantes,1977-78
+Octavos de final (vuelta),02/11/1977,Dynamo Dresden,2,1,Liverpool,1977-78
+Octavos de final (vuelta),02/11/1977,Juventus,5,0,Glentoran,1977-78
+Octavos de final (vuelta),02/11/1977,SSW Innsbruck,3,0,Celtic,1977-78
+Octavos de final (vuelta),02/11/1977,B1903,0,1,Benfica,1977-78
+Octavos de final (vuelta),02/11/1977,Borussia Mönchengladbach,5,1,Crvena Zvezda,1977-78
+Octavos de final (vuelta),02/11/1977,Ajax,2,1,Levski-Spartak,1977-78
+Octavos de final (ida),18/10/1978,Zbrojovka Brno,2,2,Wisła Kraków,1978-79
+Octavos de final (ida),18/10/1978,Bohemians,0,0,Dynamo Dresden,1978-79
+Octavos de final (ida),18/10/1978,Real Madrid,3,1,Grasshopper,1978-79
+Octavos de final (ida),18/10/1978,Rangers,0,0,PSV,1978-79
+Octavos de final (ida),18/10/1978,Austria Wien,4,1,Lillestrøm,1978-79
+Octavos de final (ida),18/10/1978,AEK,1,2,Nottingham Forest,1978-79
+Octavos de final (ida),18/10/1978,Lokomotiv Sofia,0,1,Köln,1978-79
+Octavos de final (ida),18/10/1978,Dynamo Kyiv,0,0,Malmö,1978-79
+Octavos de final (vuelta),01/11/1978,Wisła Kraków,1,1,Zbrojovka Brno,1978-79
+Octavos de final (vuelta),01/11/1978,Köln,4,0,Lokomotiv Sofia,1978-79
+Octavos de final (vuelta),01/11/1978,Lillestrøm,0,0,Austria Wien,1978-79
+Octavos de final (vuelta),01/11/1978,Malmö,2,0,Dynamo Kyiv,1978-79
+Octavos de final (vuelta),01/11/1978,Grasshopper,2,0,Real Madrid,1978-79
+Octavos de final (vuelta),01/11/1978,PSV,2,3,Rangers,1978-79
+Octavos de final (vuelta),01/11/1978,Nottingham Forest,5,1,AEK,1978-79
+Octavos de final (vuelta),01/11/1978,Dynamo Dresden,6,0,Bohemians,1978-79
+Octavos de final (ida),24/10/1979,Porto,2,1,Real Madrid,1979-80
+Octavos de final (ida),24/10/1979,Celtic,3,2,Dundalk,1979-80
+Octavos de final (ida),24/10/1979,Dynamo Berlin,2,1,Servette,1979-80
+Octavos de final (ida),24/10/1979,Dukla Praha,1,0,Strasbourg,1979-80
+Octavos de final (ida),24/10/1979,Vejle,0,3,Hajduk Split,1979-80
+Octavos de final (ida),24/10/1979,Hamburger,3,1,Dinamo Tbilisi,1979-80
+Octavos de final (ida),24/10/1979,Ajax,10,0,Omonia,1979-80
+Octavos de final (ida),24/10/1979,Nottingham Forest,2,0,Argeș Pitești,1979-80
+Octavos de final (vuelta),07/11/1979,Dinamo Tbilisi,2,3,Hamburger,1979-80
+Octavos de final (vuelta),07/11/1979,Argeș Pitești,1,2,Nottingham Forest,1979-80
+Octavos de final (vuelta),07/11/1979,Hajduk Split,1,2,Vejle,1979-80
+Octavos de final (vuelta),07/11/1979,Real Madrid,1,0,Porto,1979-80
+Octavos de final (vuelta),07/11/1979,Dundalk,0,0,Celtic,1979-80
+Octavos de final (vuelta),07/11/1979,Servette,2,2,Dynamo Berlin,1979-80
+Octavos de final (vuelta),07/11/1979,Strasbourg,2,0,Dukla Praha,1979-80
+Octavos de final (vuelta),07/11/1979,Omonia,4,0,Ajax,1979-80
+Octavos de final (ida),22/10/1980,CSKA Septemvriysko Zname,4,0,Szombierki Byton,1980-81
+Octavos de final (ida),22/10/1980,Nantes,1,2,Inter,1980-81
+Octavos de final (ida),22/10/1980,Aberdeen,0,1,Liverpool,1980-81
+Octavos de final (ida),22/10/1980,Baník Ostrava,0,0,Dynamo Berlin,1980-81
+Octavos de final (ida),22/10/1980,Spartak Moskva,3,0,Esbjerg,1980-81
+Octavos de final (ida),22/10/1980,Bayern München,5,1,Ajax,1980-81
+Octavos de final (ida),22/10/1980,Basel,1,0,Crvena Zvezda,1980-81
+Octavos de final (ida),22/10/1980,Real Madrid,1,0,Budapest Honvéd,1980-81
+Octavos de final (vuelta),04/11/1980,Budapest Honvéd,0,2,Real Madrid,1980-81
+Octavos de final (vuelta),05/11/1980,Liverpool,4,0,Aberdeen,1980-81
+Octavos de final (vuelta),05/11/1980,Ajax,2,1,Bayern München,1980-81
+Octavos de final (vuelta),05/11/1980,Esbjerg,2,0,Spartak Moskva,1980-81
+Octavos de final (vuelta),05/11/1980,Crvena Zvezda,2,0,Basel,1980-81
+Octavos de final (vuelta),05/11/1980,Szombierki Byton,0,1,CSKA Septemvriysko Zname,1980-81
+Octavos de final (vuelta),05/11/1980,Dynamo Berlin,1,1,Baník Ostrava,1980-81
+Octavos de final (vuelta),05/11/1980,Inter,1,1,Nantes,1980-81
+Octavos de final (ida),21/10/1981,Benfica,0,0,Bayern München,1981-82
+Octavos de final (ida),21/10/1981,AZ Alkmaar,2,2,Liverpool,1981-82
+Octavos de final (ida),21/10/1981,Dynamo Berlin,1,2,Aston Villa,1981-82
+Octavos de final (ida),21/10/1981,Anderlecht,3,1,Juventus,1981-82
+Octavos de final (ida),21/10/1981,KB,1,0,Universitatea Craiova,1981-82
+Octavos de final (ida),21/10/1981,Austria Wien,0,1,Dynamo Kyiv,1981-82
+Octavos de final (ida),21/10/1981,CSKA Septemvriysko Zname,2,0,Glentoran,1981-82
+Octavos de final (ida),21/10/1981,Baník Ostrava,3,1,Crvena Zvezda,1981-82
+Octavos de final (vuelta),04/11/1981,Dynamo Kyiv,1,1,Austria Wien,1981-82
+Octavos de final (vuelta),04/11/1981,Universitatea Craiova,4,1,KB,1981-82
+Octavos de final (vuelta),04/11/1981,Crvena Zvezda,3,0,Baník Ostrava,1981-82
+Octavos de final (vuelta),04/11/1981,Bayern München,4,1,Benfica,1981-82
+Octavos de final (vuelta),04/11/1981,Juventus,1,1,Anderlecht,1981-82
+Octavos de final (vuelta),04/11/1981,Liverpool,3,2,AZ Alkmaar,1981-82
+Octavos de final (vuelta),04/11/1981,Glentoran,2,1,CSKA Septemvriysko Zname,1981-82
+Octavos de final (vuelta),04/11/1981,Aston Villa,0,1,Dynamo Berlin,1981-82
+Octavos de final (ida),19/10/1982,Helsinki,1,0,Liverpool,1982-83
+Octavos de final (ida),20/10/1982,Real Sociedad,2,0,Celtic,1982-83
+Octavos de final (ida),20/10/1982,Standard Liège,1,1,Juventus,1982-83
+Octavos de final (ida),20/10/1982,Rapid Wien,2,1,Widzew Łódź,1982-83
+Octavos de final (ida),20/10/1982,CSKA Septemvriysko Zname,2,2,Sporting de Portugal,1982-83
+Octavos de final (ida),20/10/1982,Dinamo București,0,2,Aston Villa,1982-83
+Octavos de final (ida),20/10/1982,Hamburger,1,0,Olympiacos,1982-83
+Octavos de final (vuelta),02/11/1982,Liverpool,5,0,Helsinki,1982-83
+Octavos de final (vuelta),03/11/1982,Juventus,2,0,Standard Liège,1982-83
+Octavos de final (vuelta),03/11/1982,Aston Villa,4,2,Dinamo București,1982-83
+Octavos de final (vuelta),03/11/1982,Celtic,2,1,Real Sociedad,1982-83
+Octavos de final (vuelta),03/11/1982,Sporting de Portugal,0,0,CSKA Septemvriysko Zname,1982-83
+Octavos de final (vuelta),03/11/1982,Olympiacos,0,4,Hamburger,1982-83
+Octavos de final (vuelta),03/11/1982,Widzew Łódź,5,3,Rapid Wien,1982-83
+Octavos de final (ida),19/10/1983,Olympiacos,1,0,Benfica,1983-84
+Octavos de final (ida),19/10/1983,CSKA Septemvriysko Zname,0,1,Roma,1983-84
+Octavos de final (ida),19/10/1983,Dynamo Berlin,2,0,Partizan,1983-84
+Octavos de final (ida),19/10/1983,Standard Liège,0,0,Dundee United,1983-84
+Octavos de final (ida),19/10/1983,Liverpool,0,0,Athletic Club,1983-84
+Octavos de final (ida),19/10/1983,Győr,3,6,Dinamo Minsk,1983-84
+Octavos de final (ida),19/10/1983,Bohemians,2,1,Rapid Wien,1983-84
+Octavos de final (ida),19/10/1983,Dinamo București,3,0,Hamburger,1983-84
+Octavos de final (vuelta),02/11/1983,Benfica,3,0,Olympiacos,1983-84
+Octavos de final (vuelta),02/11/1983,Dundee United,4,0,Standard Liège,1983-84
+Octavos de final (vuelta),02/11/1983,Hamburger,3,2,Dinamo București,1983-84
+Octavos de final (vuelta),02/11/1983,Athletic Club,0,1,Liverpool,1983-84
+Octavos de final (vuelta),02/11/1983,Rapid Wien,1,0,Bohemians,1983-84
+Octavos de final (vuelta),02/11/1983,Partizan,1,0,Dynamo Berlin,1983-84
+Octavos de final (vuelta),02/11/1983,Dinamo Minsk,3,1,Győr,1983-84
+Octavos de final (vuelta),02/11/1983,Roma,1,0,CSKA Septemvriysko Zname,1983-84
+Octavos de final (vuelta),24/10/1984,Girondins de Bordeaux,1,0,Dinamo București,1984-85
+Octavos de final (vuelta),24/10/1984,Sparta Praha,0,0,Lyngby,1984-85
+Octavos de final (vuelta),24/10/1984,Dynamo Berlin,3,3,Austria Wien,1984-85
+Octavos de final (vuelta),24/10/1984,Levski-Spartak,3,1,Dnipro,1984-85
+Octavos de final (vuelta),24/10/1984,Panathinaikos,2,1,Linfield,1984-85
+Octavos de final (vuelta),24/10/1984,Göteborg,1,0,Beveren,1984-85
+Octavos de final (vuelta),24/10/1984,Liverpool,3,1,Benfica,1984-85
+Octavos de final (vuelta),24/10/1984,Juventus,2,0,Grasshopper,1984-85
+Octavos de final (vuelta),07/11/1984,Grasshopper,2,4,Juventus,1984-85
+Octavos de final (vuelta),07/11/1984,Beveren,2,1,Göteborg,1984-85
+Octavos de final (vuelta),07/11/1984,Austria Wien,2,1,Dynamo Berlin,1984-85
+Octavos de final (vuelta),07/11/1984,Lyngby,1,2,Sparta Praha,1984-85
+Octavos de final (vuelta),07/11/1984,Dnipro,2,0,Levski-Spartak,1984-85
+Octavos de final (vuelta),07/11/1984,Benfica,1,0,Liverpool,1984-85
+Octavos de final (vuelta),07/11/1984,Linfield,3,3,Panathinaikos,1984-85
+Octavos de final (vuelta),07/11/1984,Dinamo București,1,1,Girondins de Bordeaux,1984-85
+Octavos de final (ida),23/10/1985,Zenit,2,1,Kuusysi,1985-86
+Octavos de final (ida),23/10/1985,Budapest Honvéd,1,0,Steaua București,1985-86
+Octavos de final (ida),23/10/1985,Göteborg,4,0,Fenerbahçe,1985-86
+Octavos de final (ida),23/10/1985,Bayern München,4,2,Austria Wien,1985-86
+Octavos de final (ida),23/10/1985,Anderlecht,1,0,Omonia,1985-86
+Octavos de final (ida),23/10/1985,Servette,0,0,Aberdeen,1985-86
+Octavos de final (ida),23/10/1985,Hellas Verona,0,0,Juventus,1985-86
+Octavos de final (ida),23/10/1985,Barcelona,2,0,Porto,1985-86
+Octavos de final (vuelta),06/11/1985,Steaua București,4,1,Budapest Honvéd,1985-86
+Octavos de final (vuelta),06/11/1985,Fenerbahçe,2,1,Göteborg,1985-86
+Octavos de final (vuelta),06/11/1985,Juventus,2,0,Hellas Verona,1985-86
+Octavos de final (vuelta),06/11/1985,Kuusysi,3,1,Zenit,1985-86
+Octavos de final (vuelta),06/11/1985,Aberdeen,1,0,Servette,1985-86
+Octavos de final (vuelta),06/11/1985,Omonia,1,3,Anderlecht,1985-86
+Octavos de final (vuelta),06/11/1985,Porto,3,1,Barcelona,1985-86
+Octavos de final (vuelta),06/11/1985,Austria Wien,3,3,Bayern München,1985-86
+Octavos de final (ida),22/10/1986,Anderlecht,3,0,Steaua București,1986-87
+Octavos de final (ida),22/10/1986,Celtic,1,1,Dynamo Kyiv,1986-87
+Octavos de final (ida),22/10/1986,Real Madrid,1,0,Juventus,1986-87
+Octavos de final (ida),22/10/1986,Rosenborg,0,3,Crvena Zvezda,1986-87
+Octavos de final (ida),22/10/1986,Bayern München,2,0,Austria Wien,1986-87
+Octavos de final (ida),22/10/1986,Brøndby,2,1,Dynamo Berlin,1986-87
+Octavos de final (ida),22/10/1986,Vítkovice,1,0,Porto,1986-87
+Octavos de final (vuelta),05/11/1986,Steaua București,1,0,Anderlecht,1986-87
+Octavos de final (vuelta),05/11/1986,Dynamo Berlin,1,1,Brøndby,1986-87
+Octavos de final (vuelta),05/11/1986,Crvena Zvezda,4,1,Rosenborg,1986-87
+Octavos de final (vuelta),05/11/1986,Dynamo Kyiv,3,1,Celtic,1986-87
+Octavos de final (vuelta),05/11/1986,Austria Wien,1,1,Bayern München,1986-87
+Octavos de final (vuelta),05/11/1986,Juventus,1,0,Real Madrid,1986-87
+Octavos de final (vuelta),05/11/1986,Porto,3,0,Vítkovice,1986-87
+Octavos de final (ida),21/10/1987,Rapid Wien,1,2,PSV,1987-88
+Octavos de final (ida),21/10/1987,Aarhus,0,0,Benfica,1987-88
+Octavos de final (ida),21/10/1987,Lillestrøm,0,0,Girondins de Bordeaux,1987-88
+Octavos de final (ida),21/10/1987,Rangers,3,1,Górnik Zabrze,1987-88
+Octavos de final (ida),21/10/1987,Sparta Praha,1,2,Anderlecht,1987-88
+Octavos de final (ida),21/10/1987,Neuchâtel Xamax,2,1,Bayern München,1987-88
+Octavos de final (ida),21/10/1987,Steaua București,3,1,Omonia,1987-88
+Octavos de final (ida),21/10/1987,Real Madrid,2,1,Porto,1987-88
+Octavos de final (vuelta),04/11/1987,Omonia,0,2,Steaua București,1987-88
+Octavos de final (vuelta),04/11/1987,Girondins de Bordeaux,1,0,Lillestrøm,1987-88
+Octavos de final (vuelta),04/11/1987,Porto,1,2,Real Madrid,1987-88
+Octavos de final (vuelta),04/11/1987,Benfica,1,0,Aarhus,1987-88
+Octavos de final (vuelta),04/11/1987,Anderlecht,1,0,Sparta Praha,1987-88
+Octavos de final (vuelta),04/11/1987,Bayern München,2,0,Neuchâtel Xamax,1987-88
+Octavos de final (vuelta),04/11/1987,PSV,2,0,Rapid Wien,1987-88
+Octavos de final (vuelta),04/11/1987,Górnik Zabrze,1,1,Rangers,1987-88
+Octavos de final (ida),26/10/1988,Steaua București,3,0,Spartak Moskva,1988-89
+Octavos de final (ida),26/10/1988,17 Nëntori,0,3,Göteborg,1988-89
+Octavos de final (ida),26/10/1988,Górnik Zabrze,0,1,Real Madrid,1988-89
+Octavos de final (ida),26/10/1988,PSV,5,0,Porto,1988-89
+Octavos de final (ida),26/10/1988,Neuchâtel Xamax,3,0,Galatasaray,1988-89
+Octavos de final (ida),26/10/1988,Brugge,1,0,Monaco,1988-89
+Octavos de final (ida),26/10/1988,Milan,1,1,Crvena Zvezda,1988-89
+Octavos de final (ida),26/10/1988,Celtic,0,1,Werder Bremen,1988-89
+Octavos de final (vuelta),08/11/1988,Werder Bremen,0,0,Celtic,1988-89
+Octavos de final (vuelta),09/11/1988,Porto,2,0,PSV,1988-89
+Octavos de final (vuelta),09/11/1988,Monaco,6,1,Brugge,1988-89
+Octavos de final (vuelta),09/11/1988,Göteborg,1,0,17 Nëntori,1988-89
+Octavos de final (vuelta),09/11/1988,Spartak Moskva,1,2,Steaua București,1988-89
+Octavos de final (vuelta),09/11/1988,Galatasaray,5,0,Neuchâtel Xamax,1988-89
+Octavos de final (vuelta),10/11/1988,Real Madrid,3,2,Górnik Zabrze,1988-89
+Octavos de final (vuelta),10/11/1988,Crvena Zvezda,1,1,Milan,1988-89
+Octavos de final (ida),18/10/1989,Bayern München,3,1,17 Nëntori,1989-90
+Octavos de final (ida),18/10/1989,Olympique de Marseille,2,0,AEK,1989-90
+Octavos de final (ida),18/10/1989,Milan,2,0,Real Madrid,1989-90
+Octavos de final (ida),18/10/1989,Sparta Praha,2,2,CSKA Sofia,1989-90
+Octavos de final (ida),18/10/1989,Malmö,0,0,KV Mechelen,1989-90
+Octavos de final (ida),18/10/1989,Dnipro,2,0,Swarovski Tirol,1989-90
+Octavos de final (ida),18/10/1989,Steaua București,1,0,PSV,1989-90
+Octavos de final (ida),18/10/1989,Budapest Honvéd,0,2,Benfica,1989-90
+Octavos de final (vuelta),01/11/1989,17 Nëntori,0,3,Bayern München,1989-90
+Octavos de final (vuelta),01/11/1989,Real Madrid,1,0,Milan,1989-90
+Octavos de final (vuelta),01/11/1989,KV Mechelen,4,1,Malmö,1989-90
+Octavos de final (vuelta),01/11/1989,PSV,5,1,Steaua București,1989-90
+Octavos de final (vuelta),01/11/1989,Swarovski Tirol,2,2,Dnipro,1989-90
+Octavos de final (vuelta),01/11/1989,CSKA Sofia,3,0,Sparta Praha,1989-90
+Octavos de final (vuelta),01/11/1989,Benfica,7,0,Budapest Honvéd,1989-90
+Octavos de final (vuelta),01/11/1989,AEK,1,1,Olympique de Marseille,1989-90
+Octavos de final (ida),23/10/1990,Bayern München,4,0,CSKA Sofia,1990-91
+Octavos de final (ida),24/10/1990,Dinamo București,0,0,Porto,1990-91
+Octavos de final (ida),24/10/1990,Crvena Zvezda,3,0,Rangers,1990-91
+Octavos de final (ida),24/10/1990,Dynamo Dresden,1,1,Malmö,1990-91
+Octavos de final (ida),24/10/1990,Milan,0,0,Brugge,1990-91
+Octavos de final (ida),24/10/1990,Napoli,0,0,Spartak Moskva,1990-91
+Octavos de final (ida),24/10/1990,Real Madrid,9,1,Swarovski Tirol,1990-91
+Octavos de final (ida),25/10/1990,Lech Poznań,3,2,Olympique de Marseille,1990-91
+Octavos de final (vuelta),06/11/1990,CSKA Sofia,0,3,Bayern München,1990-91
+Octavos de final (vuelta),07/11/1990,Porto,4,0,Dinamo București,1990-91
+Octavos de final (vuelta),07/11/1990,Rangers,1,1,Crvena Zvezda,1990-91
+Octavos de final (vuelta),07/11/1990,Olympique de Marseille,6,1,Lech Poznań,1990-91
+Octavos de final (vuelta),07/11/1990,Swarovski Tirol,2,2,Real Madrid,1990-91
+Octavos de final (vuelta),07/11/1990,Brugge,0,1,Milan,1990-91
+Octavos de final (vuelta),07/11/1990,Malmö,1,1,Dynamo Dresden,1990-91
+Octavos de final (vuelta),07/11/1990,Spartak Moskva,0,0,Napoli,1990-91
+Octavos de final (ida),24/02/2004,Sparta Praha,0,0,Milan,2003-04
+Octavos de final (ida),24/02/2004,Lokomotiv Moskva,2,1,Monaco,2003-04
+Octavos de final (ida),24/02/2004,Celta de Vigo,2,3,Arsenal,2003-04
+Octavos de final (ida),24/02/2004,Bayern München,1,1,Real Madrid,2003-04
+Octavos de final (ida),25/02/2004,Deportivo de La Coruña,1,0,Juventus,2003-04
+Octavos de final (ida),25/02/2004,Real Sociedad,0,1,Olympique Lyonnais,2003-04
+Octavos de final (ida),25/02/2004,Porto,2,1,Manchester United,2003-04
+Octavos de final (ida),25/02/2004,Stuttgart,0,1,Chelsea,2003-04
+Octavos de final (vuelta),09/03/2004,Olympique Lyonnais,1,0,Real Sociedad,2003-04
+Octavos de final (vuelta),09/03/2004,Chelsea,0,0,Stuttgart,2003-04
+Octavos de final (vuelta),09/03/2004,Manchester United,1,1,Porto,2003-04
+Octavos de final (vuelta),09/03/2004,Juventus,0,1,Deportivo de La Coruña,2003-04
+Octavos de final (vuelta),10/03/2004,Arsenal,2,0,Celta de Vigo,2003-04
+Octavos de final (vuelta),10/03/2004,Real Madrid,1,0,Bayern München,2003-04
+Octavos de final (vuelta),10/03/2004,Milan,4,1,Sparta Praha,2003-04
+Octavos de final (vuelta),10/03/2004,Monaco,1,0,Lokomotiv Moskva,2003-04
+Octavos de final (ida),22/02/2005,Liverpool,3,1,Bayer Leverkusen,2004-05
+Octavos de final (ida),22/02/2005,PSV,1,0,Monaco,2004-05
+Octavos de final (ida),22/02/2005,Bayern München,3,1,Arsenal,2004-05
+Octavos de final (ida),22/02/2005,Real Madrid,1,0,Juventus,2004-05
+Octavos de final (ida),23/02/2005,Porto,1,1,Inter,2004-05
+Octavos de final (ida),23/02/2005,Barcelona,2,1,Chelsea,2004-05
+Octavos de final (ida),23/02/2005,Manchester United,0,1,Milan,2004-05
+Octavos de final (ida),23/02/2005,Werder Bremen,0,3,Olympique Lyonnais,2004-05
+Octavos de final (vuelta),08/03/2005,Chelsea,4,2,Barcelona,2004-05
+Octavos de final (vuelta),08/03/2005,Milan,1,0,Manchester United,2004-05
+Octavos de final (vuelta),08/03/2005,Olympique Lyonnais,7,2,Werder Bremen,2004-05
+Octavos de final (vuelta),09/03/2005,Juventus,2,0,Real Madrid,2004-05
+Octavos de final (vuelta),09/03/2005,Bayer Leverkusen,1,3,Liverpool,2004-05
+Octavos de final (vuelta),09/03/2005,Monaco,0,2,PSV,2004-05
+Octavos de final (vuelta),09/03/2005,Arsenal,1,0,Bayern München,2004-05
+Octavos de final (vuelta),15/03/2005,Inter,3,1,Porto,2004-05
+Octavos de final (ida),21/02/2006,Bayern München,1,1,Milan,2005-06
+Octavos de final (ida),21/02/2006,Real Madrid,0,1,Arsenal,2005-06
+Octavos de final (ida),21/02/2006,PSV,0,1,Olympique Lyonnais,2005-06
+Octavos de final (ida),21/02/2006,Benfica,1,0,Liverpool,2005-06
+Octavos de final (ida),22/02/2006,Werder Bremen,3,2,Juventus,2005-06
+Octavos de final (ida),22/02/2006,Rangers,2,2,Villarreal,2005-06
+Octavos de final (ida),22/02/2006,Ajax,2,2,Inter,2005-06
+Octavos de final (ida),22/02/2006,Chelsea,1,2,Barcelona,2005-06
+Octavos de final (vuelta),07/03/2006,Juventus,2,1,Werder Bremen,2005-06
+Octavos de final (vuelta),07/03/2006,Villarreal,1,1,Rangers,2005-06
+Octavos de final (vuelta),07/03/2006,Barcelona,1,1,Chelsea,2005-06
+Octavos de final (vuelta),08/03/2006,Arsenal,0,0,Real Madrid,2005-06
+Octavos de final (vuelta),08/03/2006,Olympique Lyonnais,4,0,PSV,2005-06
+Octavos de final (vuelta),08/03/2006,Liverpool,0,2,Benfica,2005-06
+Octavos de final (vuelta),08/03/2006,Milan,4,1,Bayern München,2005-06
+Octavos de final (vuelta),14/03/2006,Inter,1,0,Ajax,2005-06
+Octavos de final (ida),20/02/2007,Celtic,0,0,Milan,2006-07
+Octavos de final (ida),20/02/2007,Lille,0,1,Manchester United,2006-07
+Octavos de final (ida),20/02/2007,Real Madrid,3,2,Bayern München,2006-07
+Octavos de final (ida),20/02/2007,PSV,1,0,Arsenal,2006-07
+Octavos de final (ida),21/02/2007,Roma,0,0,Olympique Lyonnais,2006-07
+Octavos de final (ida),21/02/2007,Barcelona,1,2,Liverpool,2006-07
+Octavos de final (ida),21/02/2007,Porto,1,1,Chelsea,2006-07
+Octavos de final (ida),21/02/2007,Inter,2,2,Valencia,2006-07
+Octavos de final (vuelta),06/03/2007,Liverpool,0,1,Barcelona,2006-07
+Octavos de final (vuelta),06/03/2007,Chelsea,2,1,Porto,2006-07
+Octavos de final (vuelta),06/03/2007,Valencia,0,0,Inter,2006-07
+Octavos de final (vuelta),06/03/2007,Olympique Lyonnais,0,2,Roma,2006-07
+Octavos de final (vuelta),07/03/2007,Milan,1,0,Celtic,2006-07
+Octavos de final (vuelta),07/03/2007,Bayern München,2,1,Real Madrid,2006-07
+Octavos de final (vuelta),07/03/2007,Manchester United,1,0,Lille,2006-07
+Octavos de final (vuelta),07/03/2007,Arsenal,1,1,PSV,2006-07
+Octavos de final (ida),19/02/2008,Roma,2,1,Real Madrid,2007-08
+Octavos de final (ida),19/02/2008,Liverpool,2,0,Inter,2007-08
+Octavos de final (ida),19/02/2008,Olympiacos,0,0,Chelsea,2007-08
+Octavos de final (ida),19/02/2008,Schalke 04,1,0,Porto,2007-08
+Octavos de final (ida),20/02/2008,Arsenal,0,0,Milan,2007-08
+Octavos de final (ida),20/02/2008,Celtic,2,3,Barcelona,2007-08
+Octavos de final (ida),20/02/2008,Olympique Lyonnais,1,1,Manchester United,2007-08
+Octavos de final (ida),20/02/2008,Fenerbahçe,3,2,Sevilla,2007-08
+Octavos de final (vuelta),04/03/2008,Manchester United,1,0,Olympique Lyonnais,2007-08
+Octavos de final (vuelta),04/03/2008,Barcelona,1,0,Celtic,2007-08
+Octavos de final (vuelta),04/03/2008,Sevilla,3,2,Fenerbahçe,2007-08
+Octavos de final (vuelta),04/03/2008,Milan,0,2,Arsenal,2007-08
+Octavos de final (vuelta),05/03/2008,Chelsea,3,0,Olympiacos,2007-08
+Octavos de final (vuelta),05/03/2008,Real Madrid,1,2,Roma,2007-08
+Octavos de final (vuelta),05/03/2008,Porto,1,0,Schalke 04,2007-08
+Octavos de final (vuelta),11/03/2008,Inter,0,1,Liverpool,2007-08
+Octavos de final (ida),24/02/2009,Arsenal,1,0,Roma,2008-09
+Octavos de final (ida),24/02/2009,Inter,0,0,Manchester United,2008-09
+Octavos de final (ida),24/02/2009,Olympique Lyonnais,1,1,Barcelona,2008-09
+Octavos de final (ida),24/02/2009,Atlético de Madrid,2,2,Porto,2008-09
+Octavos de final (ida),25/02/2009,Villarreal,1,1,Panathinaikos,2008-09
+Octavos de final (ida),25/02/2009,Chelsea,1,0,Juventus,2008-09
+Octavos de final (ida),25/02/2009,Sporting de Portugal,0,5,Bayern München,2008-09
+Octavos de final (ida),25/02/2009,Real Madrid,0,1,Liverpool,2008-09
+Octavos de final (vuelta),10/03/2009,Bayern München,7,1,Sporting de Portugal,2008-09
+Octavos de final (vuelta),10/03/2009,Liverpool,4,0,Real Madrid,2008-09
+Octavos de final (vuelta),10/03/2009,Panathinaikos,1,2,Villarreal,2008-09
+Octavos de final (vuelta),10/03/2009,Juventus,2,2,Chelsea,2008-09
+Octavos de final (vuelta),11/03/2009,Barcelona,5,2,Olympique Lyonnais,2008-09
+Octavos de final (vuelta),11/03/2009,Roma,1,0,Arsenal,2008-09
+Octavos de final (vuelta),11/03/2009,Manchester United,2,0,Inter,2008-09
+Octavos de final (vuelta),11/03/2009,Porto,0,0,Atlético de Madrid,2008-09
+Octavos de final (ida),16/02/2010,Olympique Lyonnais,1,0,Real Madrid,2009-10
+Octavos de final (ida),16/02/2010,Milan,2,3,Manchester United,2009-10
+Octavos de final (ida),17/02/2010,Bayern München,2,1,Fiorentina,2009-10
+Octavos de final (ida),17/02/2010,Porto,2,1,Arsenal,2009-10
+Octavos de final (ida),23/02/2010,Olympiacos,0,1,Girondins de Bordeaux,2009-10
+Octavos de final (ida),23/02/2010,Stuttgart,1,1,Barcelona,2009-10
+Octavos de final (ida),24/02/2010,CSKA Moskva,1,1,Sevilla,2009-10
+Octavos de final (ida),24/02/2010,Inter,2,1,Chelsea,2009-10
+Octavos de final (vuelta),09/03/2010,Fiorentina,3,2,Bayern München,2009-10
+Octavos de final (vuelta),09/03/2010,Arsenal,5,0,Porto,2009-10
+Octavos de final (vuelta),10/03/2010,Manchester United,4,0,Milan,2009-10
+Octavos de final (vuelta),10/03/2010,Real Madrid,1,1,Olympique Lyonnais,2009-10
+Octavos de final (vuelta),16/03/2010,Sevilla,1,2,CSKA Moskva,2009-10
+Octavos de final (vuelta),16/03/2010,Chelsea,0,1,Inter,2009-10
+Octavos de final (vuelta),17/03/2010,Barcelona,4,0,Stuttgart,2009-10
+Octavos de final (vuelta),17/03/2010,Girondins de Bordeaux,2,1,Olympiacos,2009-10
+Octavos de final (ida),15/02/2011,Milan,0,1,Tottenham,2010-11
+Octavos de final (ida),15/02/2011,Valencia,1,1,Schalke 04,2010-11
+Octavos de final (ida),16/02/2011,Roma,2,3,Shakhtar Donetsk,2010-11
+Octavos de final (ida),16/02/2011,Arsenal,2,1,Barcelona,2010-11
+Octavos de final (ida),22/02/2011,Olympique Lyonnais,1,1,Real Madrid,2010-11
+Octavos de final (ida),22/02/2011,København,0,2,Chelsea,2010-11
+Octavos de final (ida),23/02/2011,Olympique de Marseille,0,0,Manchester United,2010-11
+Octavos de final (ida),23/02/2011,Inter,0,1,Bayern München,2010-11
+Octavos de final (vuelta),08/03/2011,Barcelona,3,1,Arsenal,2010-11
+Octavos de final (vuelta),08/03/2011,Shakhtar Donetsk,3,0,Roma,2010-11
+Octavos de final (vuelta),09/03/2011,Schalke 04,3,1,Valencia,2010-11
+Octavos de final (vuelta),09/03/2011,Tottenham,0,0,Milan,2010-11
+Octavos de final (vuelta),15/03/2011,Manchester United,2,1,Olympique de Marseille,2010-11
+Octavos de final (vuelta),15/03/2011,Bayern München,2,3,Inter,2010-11
+Octavos de final (vuelta),16/03/2011,Chelsea,0,0,København,2010-11
+Octavos de final (vuelta),16/03/2011,Real Madrid,3,0,Olympique Lyonnais,2010-11
+Octavos de final (ida),14/02/2012,Bayer Leverkusen,1,3,Barcelona,2011-12
+Octavos de final (ida),14/02/2012,Olympique Lyonnais,1,0,APOEL,2011-12
+Octavos de final (ida),15/02/2012,Zenit,3,2,Benfica,2011-12
+Octavos de final (ida),15/02/2012,Milan,4,0,Arsenal,2011-12
+Octavos de final (ida),21/02/2012,CSKA Moskva,1,1,Real Madrid,2011-12
+Octavos de final (ida),21/02/2012,Napoli,3,1,Chelsea,2011-12
+Octavos de final (ida),22/02/2012,Olympique de Marseille,1,0,Inter,2011-12
+Octavos de final (ida),22/02/2012,Basel,1,0,Bayern München,2011-12
+Octavos de final (vuelta),06/03/2012,Arsenal,3,0,Milan,2011-12
+Octavos de final (vuelta),06/03/2012,Benfica,2,0,Zenit,2011-12
+Octavos de final (vuelta),07/03/2012,Barcelona,7,1,Bayer Leverkusen,2011-12
+Octavos de final (vuelta),07/03/2012,APOEL,1,0,Olympique Lyonnais,2011-12
+Octavos de final (vuelta),13/03/2012,Inter,2,1,Olympique de Marseille,2011-12
+Octavos de final (vuelta),13/03/2012,Bayern München,7,0,Basel,2011-12
+Octavos de final (vuelta),14/03/2012,Chelsea,4,1,Napoli,2011-12
+Octavos de final (vuelta),14/03/2012,Real Madrid,4,1,CSKA Moskva,2011-12
+Octavos de final (ida),12/02/2013,Valencia,1,2,PSG,2012-13
+Octavos de final (ida),12/02/2013,Celtic,0,3,Juventus,2012-13
+Octavos de final (ida),13/02/2013,Real Madrid,1,1,Manchester United,2012-13
+Octavos de final (ida),13/02/2013,Shakhtar Donetsk,2,2,Borussia Dortmund,2012-13
+Octavos de final (ida),19/02/2013,Arsenal,1,3,Bayern München,2012-13
+Octavos de final (ida),19/02/2013,Porto,1,0,Málaga,2012-13
+Octavos de final (ida),20/02/2013,Milan,2,0,Barcelona,2012-13
+Octavos de final (ida),20/02/2013,Galatasaray,1,1,Schalke 04,2012-13
+Octavos de final (vuelta),05/03/2013,Borussia Dortmund,3,0,Shakhtar Donetsk,2012-13
+Octavos de final (vuelta),05/03/2013,Manchester United,1,2,Real Madrid,2012-13
+Octavos de final (vuelta),06/03/2013,PSG,1,1,Valencia,2012-13
+Octavos de final (vuelta),06/03/2013,Juventus,2,0,Celtic,2012-13
+Octavos de final (vuelta),12/03/2013,Barcelona,4,0,Milan,2012-13
+Octavos de final (vuelta),12/03/2013,Schalke 04,2,3,Galatasaray,2012-13
+Octavos de final (vuelta),13/03/2013,Bayern München,0,2,Arsenal,2012-13
+Octavos de final (vuelta),13/03/2013,Málaga,2,0,Porto,2012-13
+Octavos de final (ida),18/02/2014,Manchester City,0,2,Barcelona,2013-14
+Octavos de final (ida),18/02/2014,Bayer Leverkusen,0,4,PSG,2013-14
+Octavos de final (ida),19/02/2014,Arsenal,0,2,Bayern München,2013-14
+Octavos de final (ida),19/02/2014,Milan,0,1,Atlético de Madrid,2013-14
+Octavos de final (ida),25/02/2014,Olympiacos,2,0,Manchester United,2013-14
+Octavos de final (ida),25/02/2014,Zenit,2,4,Borussia Dortmund,2013-14
+Octavos de final (ida),26/02/2014,Schalke 04,1,6,Real Madrid,2013-14
+Octavos de final (ida),26/02/2014,Galatasaray,1,1,Chelsea,2013-14
+Octavos de final (vuelta),11/03/2014,Bayern München,1,1,Arsenal,2013-14
+Octavos de final (vuelta),11/03/2014,Atlético de Madrid,4,1,Milan,2013-14
+Octavos de final (vuelta),12/03/2014,Barcelona,2,1,Manchester City,2013-14
+Octavos de final (vuelta),12/03/2014,PSG,2,1,Bayer Leverkusen,2013-14
+Octavos de final (vuelta),18/03/2014,Real Madrid,3,1,Schalke 04,2013-14
+Octavos de final (vuelta),18/03/2014,Chelsea,2,0,Galatasaray,2013-14
+Octavos de final (vuelta),19/03/2014,Borussia Dortmund,1,2,Zenit,2013-14
+Octavos de final (vuelta),19/03/2014,Manchester United,3,0,Olympiacos,2013-14
+Octavos de final (ida),17/02/2015,Shakhtar Donetsk,0,0,Bayern München,2014-15
+Octavos de final (ida),17/02/2015,PSG,1,1,Chelsea,2014-15
+Octavos de final (ida),18/02/2015,Basel,1,1,Porto,2014-15
+Octavos de final (ida),18/02/2015,Schalke 04,0,2,Real Madrid,2014-15
+Octavos de final (ida),24/02/2015,Juventus,2,1,Borussia Dortmund,2014-15
+Octavos de final (ida),24/02/2015,Manchester City,1,2,Barcelona,2014-15
+Octavos de final (ida),25/02/2015,Bayer Leverkusen,1,0,Atlético de Madrid,2014-15
+Octavos de final (ida),25/02/2015,Arsenal,1,3,Monaco,2014-15
+Octavos de final (vuelta),10/03/2015,Real Madrid,3,4,Schalke 04,2014-15
+Octavos de final (vuelta),10/03/2015,Porto,4,0,Basel,2014-15
+Octavos de final (vuelta),11/03/2015,Bayern München,7,0,Shakhtar Donetsk,2014-15
+Octavos de final (vuelta),11/03/2015,Chelsea,2,2,PSG,2014-15
+Octavos de final (vuelta),17/03/2015,Monaco,0,2,Arsenal,2014-15
+Octavos de final (vuelta),17/03/2015,Atlético de Madrid,1,0,Bayer Leverkusen,2014-15
+Octavos de final (vuelta),18/03/2015,Borussia Dortmund,0,3,Juventus,2014-15
+Octavos de final (vuelta),18/03/2015,Barcelona,1,0,Manchester City,2014-15
+Octavos de final (ida),16/02/2016,Benfica,1,0,Zenit,2015-16
+Octavos de final (ida),16/02/2016,PSG,2,1,Chelsea,2015-16
+Octavos de final (ida),17/02/2016,Gent,2,3,Wolfsburg,2015-16
+Octavos de final (ida),17/02/2016,Roma,0,2,Real Madrid,2015-16
+Octavos de final (ida),23/02/2016,Arsenal,0,2,Barcelona,2015-16
+Octavos de final (ida),23/02/2016,Juventus,2,2,Bayern München,2015-16
+Octavos de final (ida),24/02/2016,Dynamo Kyiv,1,3,Manchester City,2015-16
+Octavos de final (ida),24/02/2016,PSV,0,0,Atlético de Madrid,2015-16
+Octavos de final (vuelta),08/03/2016,Real Madrid,2,0,Roma,2015-16
+Octavos de final (vuelta),08/03/2016,Wolfsburg,1,0,Gent,2015-16
+Octavos de final (vuelta),09/03/2016,Chelsea,1,2,PSG,2015-16
+Octavos de final (vuelta),09/03/2016,Zenit,1,2,Benfica,2015-16
+Octavos de final (vuelta),15/03/2016,Manchester City,0,0,Dynamo Kyiv,2015-16
+Octavos de final (vuelta),15/03/2016,Atlético de Madrid,0,0,PSV,2015-16
+Octavos de final (vuelta),16/03/2016,Barcelona,3,1,Arsenal,2015-16
+Octavos de final (vuelta),16/03/2016,Bayern München,4,2,Juventus,2015-16
+Octavos de final (ida),14/02/2017,PSG,4,0,Barcelona,2016-17
+Octavos de final (ida),14/02/2017,Benfica,1,0,Borussia Dortmund,2016-17
+Octavos de final (ida),15/02/2017,Real Madrid,3,1,Napoli,2016-17
+Octavos de final (ida),15/02/2017,Bayern München,5,1,Arsenal,2016-17
+Octavos de final (ida),21/02/2017,Bayer Leverkusen,2,4,Atlético de Madrid,2016-17
+Octavos de final (ida),21/02/2017,Manchester City,5,3,Monaco,2016-17
+Octavos de final (ida),22/02/2017,Porto,0,2,Juventus,2016-17
+Octavos de final (ida),22/02/2017,Sevilla,2,1,Leicester,2016-17
+Octavos de final (vuelta),07/03/2017,Napoli,1,3,Real Madrid,2016-17
+Octavos de final (vuelta),07/03/2017,Arsenal,1,5,Bayern München,2016-17
+Octavos de final (vuelta),08/03/2017,Barcelona,6,1,PSG,2016-17
+Octavos de final (vuelta),08/03/2017,Borussia Dortmund,4,0,Benfica,2016-17
+Octavos de final (vuelta),14/03/2017,Juventus,1,0,Porto,2016-17
+Octavos de final (vuelta),14/03/2017,Leicester,2,0,Sevilla,2016-17
+Octavos de final (vuelta),15/03/2017,Monaco,3,1,Manchester City,2016-17
+Octavos de final (vuelta),15/03/2017,Atlético de Madrid,0,0,Bayer Leverkusen,2016-17
+Octavos de final (ida),13/02/2018,Juventus,2,2,Tottenham,2017-18
+Octavos de final (ida),13/02/2018,Basel,0,4,Manchester City,2017-18
+Octavos de final (ida),14/02/2018,Real Madrid,3,1,PSG,2017-18
+Octavos de final (ida),14/02/2018,Porto,0,5,Liverpool,2017-18
+Octavos de final (ida),20/02/2018,Chelsea,1,1,Barcelona,2017-18
+Octavos de final (ida),20/02/2018,Bayern München,5,0,Beşiktaş,2017-18
+Octavos de final (ida),21/02/2018,Shakhtar Donetsk,2,1,Roma,2017-18
+Octavos de final (ida),21/02/2018,Sevilla,0,0,Manchester United,2017-18
+Octavos de final (vuelta),06/03/2018,PSG,1,2,Real Madrid,2017-18
+Octavos de final (vuelta),06/03/2018,Liverpool,0,0,Porto,2017-18
+Octavos de final (vuelta),07/03/2018,Manchester City,1,2,Basel,2017-18
+Octavos de final (vuelta),07/03/2018,Tottenham,1,2,Juventus,2017-18
+Octavos de final (vuelta),13/03/2018,Roma,1,0,Shakhtar Donetsk,2017-18
+Octavos de final (vuelta),13/03/2018,Manchester United,1,2,Sevilla,2017-18
+Octavos de final (vuelta),14/03/2018,Beşiktaş,1,3,Bayern München,2017-18
+Octavos de final (vuelta),14/03/2018,Barcelona,3,0,Chelsea,2017-18
+Octavos de final (ida),12/02/2019,Roma,2,1,Porto,2018-19
+Octavos de final (ida),12/02/2019,Manchester United,0,2,PSG,2018-19
+Octavos de final (ida),13/02/2019,Tottenham,3,0,Borussia Dortmund,2018-19
+Octavos de final (ida),13/02/2019,Ajax,1,2,Real Madrid,2018-19
+Octavos de final (ida),19/02/2019,Liverpool,0,0,Bayern München,2018-19
+Octavos de final (ida),19/02/2019,Olympique Lyonnais,0,0,Barcelona,2018-19
+Octavos de final (ida),20/02/2019,Atlético de Madrid,2,0,Juventus,2018-19
+Octavos de final (ida),20/02/2019,Schalke 04,2,3,Manchester City,2018-19
+Octavos de final (vuelta),05/03/2019,Borussia Dortmund,0,1,Tottenham,2018-19
+Octavos de final (vuelta),05/03/2019,Real Madrid,1,4,Ajax,2018-19
+Octavos de final (vuelta),06/03/2019,PSG,1,3,Manchester United,2018-19
+Octavos de final (vuelta),06/03/2019,Porto,3,1,Roma,2018-19
+Octavos de final (vuelta),12/03/2019,Juventus,3,0,Atlético de Madrid,2018-19
+Octavos de final (vuelta),12/03/2019,Manchester City,7,0,Schalke 04,2018-19
+Octavos de final (vuelta),13/03/2019,Barcelona,5,1,Olympique Lyonnais,2018-19
+Octavos de final (vuelta),13/03/2019,Bayern München,1,3,Liverpool,2018-19
+Octavos de final (ida),18/02/2020,Atlético de Madrid,1,0,Liverpool,2019-20
+Octavos de final (ida),18/02/2020,Borussia Dortmund,2,1,PSG,2019-20
+Octavos de final (ida),19/02/2020,Atalanta,4,1,Valencia,2019-20
+Octavos de final (ida),19/02/2020,Tottenham,0,1,RB Leipzig,2019-20
+Octavos de final (ida),25/02/2020,Chelsea,0,3,Bayern München,2019-20
+Octavos de final (ida),25/02/2020,Napoli,1,1,Barcelona,2019-20
+Octavos de final (ida),26/02/2020,Real Madrid,1,2,Manchester City,2019-20
+Octavos de final (ida),26/02/2020,Olympique Lyonnais,1,0,Juventus,2019-20
+Octavos de final (vuelta),10/03/2020,RB Leipzig,3,0,Tottenham,2019-20
+Octavos de final (vuelta),10/03/2020,Valencia,3,4,Atalanta,2019-20
+Octavos de final (vuelta),11/03/2020,PSG,2,0,Borussia Dortmund,2019-20
+Octavos de final (vuelta),11/03/2020,Liverpool,2,3,Atlético de Madrid,2019-20
+Octavos de final (vuelta),07/08/2020,Manchester City,2,1,Real Madrid,2019-20
+Octavos de final (vuelta),07/08/2020,Juventus,2,1,Olympique Lyonnais,2019-20
+Octavos de final (vuelta),08/08/2020,Barcelona,3,1,Napoli,2019-20
+Octavos de final (vuelta),08/08/2020,Bayern München,4,1,Chelsea,2019-20
+Octavos de final (ida),16/02/2021,RB Leipzig,0,2,Liverpool,2020-21
+Octavos de final (ida),16/02/2021,Barcelona,1,4,PSG,2020-21
+Octavos de final (ida),17/02/2021,Porto,2,1,Juventus,2020-21
+Octavos de final (ida),17/02/2021,Sevilla,2,3,Borussia Dortmund,2020-21
+Octavos de final (ida),23/02/2021,Lazio,1,4,Bayern München,2020-21
+Octavos de final (ida),23/02/2021,Atlético de Madrid,0,1,Chelsea,2020-21
+Octavos de final (ida),24/02/2021,Borussia Mönchengladbach,0,2,Manchester City,2020-21
+Octavos de final (ida),24/02/2021,Atalanta,0,1,Real Madrid,2020-21
+Octavos de final (vuelta),09/03/2021,Borussia Dortmund,2,2,Sevilla,2020-21
+Octavos de final (vuelta),09/03/2021,Juventus,3,2,Porto,2020-21
+Octavos de final (vuelta),10/03/2021,Liverpool,2,0,RB Leipzig,2020-21
+Octavos de final (vuelta),10/03/2021,PSG,1,1,Barcelona,2020-21
+Octavos de final (vuelta),16/03/2021,Manchester City,2,0,Borussia Mönchengladbach,2020-21
+Octavos de final (vuelta),16/03/2021,Real Madrid,3,1,Atalanta,2020-21
+Octavos de final (vuelta),17/03/2021,Chelsea,2,0,Atlético de Madrid,2020-21
+Octavos de final (vuelta),17/03/2021,Bayern München,2,1,Lazio,2020-21
+Octavos de final (ida),15/02/2022,PSG,1,0,Real Madrid,2021-22
+Octavos de final (ida),15/02/2022,Sporting de Portugal,0,5,Manchester City,2021-22
+Octavos de final (ida),16/02/2022,Inter,0,2,Liverpool,2021-22
+Octavos de final (ida),16/02/2022,Red Bull Salzburg,1,1,Bayern München,2021-22
+Octavos de final (ida),22/02/2022,Chelsea,2,0,Lille,2021-22
+Octavos de final (ida),22/02/2022,Villarreal,1,1,Juventus,2021-22
+Octavos de final (ida),23/02/2022,Benfica,2,2,Ajax,2021-22
+Octavos de final (ida),23/02/2022,Atlético de Madrid,1,1,Manchester United,2021-22
+Octavos de final (vuelta),08/03/2022,Liverpool,0,1,Inter,2021-22
+Octavos de final (vuelta),08/03/2022,Bayern München,7,1,Red Bull Salzburg,2021-22
+Octavos de final (vuelta),09/03/2022,Manchester City,0,0,Sporting de Portugal,2021-22
+Octavos de final (vuelta),09/03/2022,Real Madrid,3,1,PSG,2021-22
+Octavos de final (vuelta),15/03/2022,Manchester United,0,1,Atlético de Madrid,2021-22
+Octavos de final (vuelta),15/03/2022,Ajax,0,1,Benfica,2021-22
+Octavos de final (vuelta),16/03/2022,Juventus,0,3,Villarreal,2021-22
+Octavos de final (vuelta),16/03/2022,Lille,1,2,Chelsea,2021-22
+Octavos de final (ida),14/02/2023,PSG,0,1,Bayern München,2022-23
+Octavos de final (ida),14/02/2023,Milan,1,0,Tottenham,2022-23
+Octavos de final (ida),15/02/2023,Borussia Dortmund,1,0,Chelsea,2022-23
+Octavos de final (ida),15/02/2023,Brugge,0,2,Benfica,2022-23
+Octavos de final (ida),21/02/2023,Eintracht Frankfurt,0,2,Napoli,2022-23
+Octavos de final (ida),21/02/2023,Liverpool,2,5,Real Madrid,2022-23
+Octavos de final (ida),22/02/2023,RB Leipzig,1,1,Manchester City,2022-23
+Octavos de final (ida),22/02/2023,Inter,1,0,Porto,2022-23
+Octavos de final (vuelta),07/03/2023,Benfica,5,1,Brugge,2022-23
+Octavos de final (vuelta),07/03/2023,Chelsea,2,0,Borussia Dortmund,2022-23
+Octavos de final (vuelta),08/03/2023,Tottenham,0,0,Milan,2022-23
+Octavos de final (vuelta),08/03/2023,Bayern München,2,0,PSG,2022-23
+Octavos de final (vuelta),14/03/2023,Porto,0,0,Inter,2022-23
+Octavos de final (vuelta),14/03/2023,Manchester City,7,0,RB Leipzig,2022-23
+Octavos de final (vuelta),15/03/2023,Real Madrid,1,0,Liverpool,2022-23
+Octavos de final (vuelta),15/03/2023,Napoli,3,0,Eintracht Frankfurt,2022-23
+Octavos de final (ida),13/02/2024,København,1,3,Manchester City,2023-24
+Octavos de final (ida),13/02/2024,RB Leipzig,0,1,Real Madrid,2023-24
+Octavos de final (ida),14/02/2024,PSG,2,0,Real Sociedad,2023-24
+Octavos de final (ida),14/02/2024,Lazio,1,0,Bayern München,2023-24
+Octavos de final (ida),20/02/2024,Inter,1,0,Atlético de Madrid,2023-24
+Octavos de final (ida),20/02/2024,PSV,1,1,Borussia Dortmund,2023-24
+Octavos de final (ida),21/02/2024,Porto,1,0,Arsenal,2023-24
+Octavos de final (ida),21/02/2024,Napoli,1,1,Barcelona,2023-24
+Octavos de final (vuelta),05/03/2024,Bayern München,3,0,Lazio,2023-24
+Octavos de final (vuelta),05/03/2024,Real Sociedad,1,2,PSG,2023-24
+Octavos de final (vuelta),06/03/2024,Real Madrid,1,1,RB Leipzig,2023-24
+Octavos de final (vuelta),06/03/2024,Manchester City,3,1,København,2023-24
+Octavos de final (vuelta),12/03/2024,Barcelona,3,1,Napoli,2023-24
+Octavos de final (vuelta),12/03/2024,Arsenal,1,0,Porto,2023-24
+Octavos de final (vuelta),13/03/2024,Atlético de Madrid,2,1,Inter,2023-24
+Octavos de final (vuelta),13/03/2024,Borussia Dortmund,2,0,PSV,2023-24
