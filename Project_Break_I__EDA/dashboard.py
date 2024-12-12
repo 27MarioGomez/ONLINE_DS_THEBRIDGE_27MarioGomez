@@ -9,8 +9,9 @@ st.write("Directorio de trabajo actual:", os.getcwd())
 # Cargar datos
 @st.cache_data
 def load_data():
-    # Ruta según el directorio actual en Streamlit
-    filepath = os.path.join(os.getcwd(), "EDA_CHAMPIONS_LEAGUE/src/data/champions_league_complete_with_rounds.csv")
+    # Construye la ruta completa desde el directorio base
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    filepath = os.path.join(base_dir, "EDA_CHAMPIONS_LEAGUE/src/data/champions_league_complete_with_rounds.csv")
     return pd.read_csv(filepath)
 
 df = load_data()
