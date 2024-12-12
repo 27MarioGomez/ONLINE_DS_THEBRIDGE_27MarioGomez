@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 # Cargar datos
 @st.cache_data
 def load_data():
-    filepath = "EDA - CHAMPIONS LEAGUE/src/data/champions_league_complete_with_rounds.csv"
+    filepath = "EDA_CHAMPIONS_LEAGUE/src/data/champions_league_complete_with_rounds.csv"
     return pd.read_csv(filepath)
 
 df = load_data()
