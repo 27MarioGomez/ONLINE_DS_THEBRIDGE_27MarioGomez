@@ -1,11 +1,16 @@
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
+import os
+
+# Imprime el directorio de trabajo actual para depuración
+st.write("Directorio de trabajo actual:", os.getcwd())
 
 # Cargar datos
 @st.cache_data
 def load_data():
-    filepath = "EDA_CHAMPIONS_LEAGUE/src/data/champions_league_complete_with_rounds.csv"
+    # Ruta según el directorio actual en Streamlit
+    filepath = os.path.join(os.getcwd(), "EDA_CHAMPIONS_LEAGUE/src/data/champions_league_complete_with_rounds.csv")
     return pd.read_csv(filepath)
 
 df = load_data()
